@@ -13,4 +13,4 @@ L'addon a été apprécié (pas mal de serveur l'avaient ajouté) mais n'a pas e
 en raison de l'impact de la latence sur son gameplay.
 Ce type de déplacement n'était pas prévu dans le jeu de base donc il ne s'effectuait qu'après le retour serveur
 et si en local cela marchait parfaitement, à partir de 15-20ms le gameplay se dégradait (les déplacement successifs
-au grappin requiérant une certaine fluidité des mouvements).
+au grappin requiérant un déplacement immédiat pour des mouvements fluides).
