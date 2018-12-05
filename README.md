@@ -12,5 +12,5 @@ Vidéo du mod en fonctionnement : http://bvalo.fr/videos/ghook.mp4
 L'addon a été apprécié (pas mal de serveur l'avaient ajouté) mais n'a pas eu le succès que j'espérais
 en raison de l'impact de la latence sur son gameplay.
 Ce type de déplacement n'était pas prévu dans le jeu de base donc il ne s'effectuait qu'après le retour serveur
-et si en local cela marchait parfaitement, à partir de 30ms le gameplay se dégradait (les déplacement successifs
+et si en local cela marchait parfaitement, à partir de 15-20ms le gameplay se dégradait (les déplacement successifs
 au grappin requiérant une certaine fluidité des mouvements).
